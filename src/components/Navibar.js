@@ -8,7 +8,7 @@ export default function Navibar() {
   return ( 
     <>
     <Navbar collapseOnSelect expand='lg' bg='dark' variant='dark' className='p-2'>
-      <NavbarBrand>Derante</NavbarBrand>
+      <NavbarBrand>Bobrs</NavbarBrand>
       <NavbarToggle aria-controls='responsive-navbar-nav'></NavbarToggle>
       <NavbarCollapse id='responsive-navbar-nav'>
         <Nav className="me-auto">
